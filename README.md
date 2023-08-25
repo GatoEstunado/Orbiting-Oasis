@@ -1,6 +1,7 @@
-Titulo ou Arte do Projeto
 Versão: 1.0
-Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+
+Status do Projeto: ✔️ Concluído
+
 Tópicos
 🔹 Descrição do projeto
 
@@ -18,8 +19,6 @@ Tópicos
 
 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Novas Recursos
-
 🔹 Resolvendo problemas
 
 🔹 Recursos inseridos
@@ -30,57 +29,46 @@ Tópicos
 
 ...
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
-Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Descrição do Projeto 🧾✏️
+Código para calcular a área de triângulos usando classes em C#.
 
 Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
-
-Distribuição
-Link para teste da versão disponibilizada.
+Distribuição 💬
+Não possui versão de testes aberta.
 
 Pré-requisitos ⚠️
-Versão do Android; SDK; Aparelho utilizado para testes.
+Visual Studio,
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
-Como rodar a aplicação
-Explicação de como se deve utilizar o projeto.
+Um leitor de linguagens de programação, sendo a utilizada aqui a C#.
 
-Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Como Rodar ▶️
+Basta rodar a aplicação e seguir as instruções por ela dadas.
+
+Testes realizados ❗
+O código foi realizado e testado no Visual Studio Code 2022.
 
 Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+Não usa banco de dados.
 
 Linguagens, dependencias e libs utilizadas 📚
-Android Studio
+image
 
-XML ... Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+System
 
-Resolvendo Problemas
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+System.Globalization
+
+Resolvendo Problemas 🔥
+Não houveram demais delongas no desenvolvimento do projeto.
 
 Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
+Suas funções foram implementadas e concluídas
 
 Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Dennis Nomura
 
 Licença
 The MIT License (MIT)
 
-Copyright ©️ Ano - Titulo do Projeto
+Copyright ©️ Ano - Calculadora de dois triangulos
