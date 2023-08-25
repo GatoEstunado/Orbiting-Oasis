@@ -1,6 +1,12 @@
-Titulo ou Arte do Projeto
-Versão: 1.0
-Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+# Titulo ou Arte do Projeto
+
+
+*Versão: 1.0*
+
+
+Status do Projeto: ⚠️ Espera
+
+
 Tópicos
 🔹 Descrição do projeto
 
@@ -30,25 +36,24 @@ Tópicos
 
 ...
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
-Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+## Sobre o Projeto:
+!!!!!  Se trata de uma novel 2D, com mecânicas focadas em escolhas e diálogos, e secundárias como mini-games.
 
-Funcionalidades ⚙️
-✔️ Funcionalidade 1
 
-✔️ Funcionalidade 2
+## Gênero do game:
+Novel / 2D / Story Telling / 
 
-✔️ Funcionalidade 3
 
-✔️ Funcionalidade 4
 
-Distribuição
+## Mecânicas:
 Link para teste da versão disponibilizada.
 
-Pré-requisitos ⚠️
+
+## Sinópse
 Versão do Android; SDK; Aparelho utilizado para testes.
+
+
 
 Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
 Como rodar a aplicação
