@@ -1,10 +1,10 @@
-# Titulo ou Arte do Projeto
+# Orbiting Oasis
 
 
 *Versão: 1.0*
 
 
-Status do Projeto: ⚠️ Espera
+Status do Projeto: ⚠️ Em andamento
 
 
 Tópicos
@@ -38,7 +38,7 @@ Tópicos
 
 
 ## Sobre o Projeto:
-!!!!!  Se trata de uma novel 2D, com mecânicas focadas em escolhas e diálogos, e secundárias como mini-games.
+Obiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
 
 
 ## Gênero do game:
@@ -47,11 +47,18 @@ Novel / 2D / Story Telling /
 
 
 ## Mecânicas:
-Link para teste da versão disponibilizada.
+O jogo tem como mecânica principal, os diálogos e tomada de decisões;
+
+"Pesca Espacial": Através dos diálogos, o jogador poder ser levado ao um dos mini games, que consiste na coleta de intens do lado de fora do Domo;
+
+"Plantação": O jogador pode plantar e colher e cozinhar, para gerar pratos especias e presentear os tripulantes para ganhar pontos de amizdade com eles;
+
+"Relacionamentos": Cada tripulante tem seu nível de amizade com o jogador, podendo ser aumentado, para assim liberar novas áreas e saber mais sobre seu background.
+
 
 
 ## Sinópse
-Versão do Android; SDK; Aparelho utilizado para testes.
+Obiting Oasis é o um dos últimos refúgios da humanidade. Você é o Gerente do parque florestal, lançado ao espaço junto de sua esquipe, será que vocês serão a esperanças da humanidade, ou seu fim? 
 
 
 
