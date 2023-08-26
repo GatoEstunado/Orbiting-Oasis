@@ -61,15 +61,13 @@ O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 Obiting Oasis é o um dos últimos refúgios da humanidade. Você é o Gerente do parque florestal, lançado ao espaço junto de sua esquipe, será que vocês serão a esperanças da humanidade, ou seu fim? 
 
 
+## Nosso diferencial
+O jogo aborda uma jogabilidade no estilo stoy telling/novel, tendo mecânicas complementares para dar um Up, com tema baseado em ODS.
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
-Como rodar a aplicação
-Explicação de como se deve utilizar o projeto.
 
-Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
-
-Banco de Dados 🗂️
+## Sistema Operacional
+Sendo produzido na Unity !!!!
+* ### Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 Linguagens, dependencias e libs utilizadas 📚
