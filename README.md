@@ -38,7 +38,7 @@ Tópicos
 
 
 ## Sobre o Projeto:
-Obiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
+Orbiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
 
 
 ## Gênero do game:
@@ -58,7 +58,7 @@ O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 
 
 ## Sinópse
-Obiting Oasis é o um dos últimos refúgios da humanidade. Você é o Gerente do parque florestal, lançado ao espaço junto de sua esquipe, será que vocês serão a esperanças da humanidade, ou seu fim? 
+Orbiting Oasis é o um dos últimos refúgios da humanidade. Você é o Gerente do parque florestal, lançado ao espaço junto de sua esquipe, será que vocês serão a esperanças da humanidade, ou seu fim? 
 
 
 ## Nosso diferencial
