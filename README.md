@@ -14,13 +14,13 @@ Tópicos
 
 🔹 [Gênero do Game](https://github.com/GatoEstunado/Starlight-Dynamics#gênero-do-game)
 
-🔹 [Mêcanicas](https://github.com/GatoEstunado/Starlight-Dynamics#mêcanicas)
+🔹 [Mêcanicas](https://github.com/GatoEstunado/Starlight-Dynamics#mec%C3%A2nicas)
 
 🔹 [Sinópse](https://github.com/GatoEstunado/Starlight-Dynamics#sinópse)
 
-🔹 Como rodar a aplicação
+🔹 [Nosso Diferencial](https://github.com/GatoEstunado/Starlight-Dynamics#nosso-diferencial)
 
-🔹 Testes realizados
+🔹 [Sistema Operacional](https://github.com/GatoEstunado/Starlight-Dynamics#sistema-operacional)
 
 🔹 Banco de Dados
 
