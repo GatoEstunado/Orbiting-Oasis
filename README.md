@@ -12,11 +12,11 @@ Tópicos
 
 🔹 [Sobre o Projeto](https://github.com/GatoEstunado/Starlight-Dynamics#sobre-o-projeto)
 
-🔹 Funcionalidades
+🔹 [Gênero do Game](https://github.com/GatoEstunado/Starlight-Dynamics#gênero-do-game)
 
-🔹 Distribuição
+🔹 [Mêcanicas](https://github.com/GatoEstunado/Starlight-Dynamics#mêcanicas)
 
-🔹 Pré-requisitos
+🔹 [Sinópse](https://github.com/GatoEstunado/Starlight-Dynamics#sinópse)
 
 🔹 Como rodar a aplicação
 
