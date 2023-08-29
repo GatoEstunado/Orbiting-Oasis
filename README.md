@@ -8,7 +8,9 @@ Status do Projeto: ⚠️ Em andamento
 
 
 Tópicos
-🔹 Descrição do projeto
+
+
+🔹 [Sobre o Projeto](https://github.com/GatoEstunado/Starlight-Dynamics#sobre-o-projeto)
 
 🔹 Funcionalidades
 
@@ -37,16 +39,16 @@ Tópicos
 ...
 
 
-## Sobre o Projeto:
+## Sobre o Projeto
 Orbiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
 
 
-## Gênero do game:
+## Gênero do game
 Novel / 2D / Story Telling / 
 
 
 
-## Mecânicas:
+## Mecânicas
 O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 
 "Pesca Espacial": Através dos diálogos, o jogador poder ser levado ao um dos mini games, que consiste na coleta de intens do lado de fora do Domo;
