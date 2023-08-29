@@ -7,7 +7,7 @@
 Status do Projeto: ⚠️ Em andamento
 
 
-Tópicos
+### Tópicos
 
 
 🔹 [Sobre o Projeto](https://github.com/GatoEstunado/Starlight-Dynamics#sobre-o-projeto)
@@ -89,10 +89,10 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 📝 Tarefa 3
 
-Desenvolvedores/Contribuintes:
+## Desenvolvedores/Contribuintes:
 Liste o time responsável pelo desenvolvimento do projeto
 
 Licença
 The MIT License (MIT)
 
-Copyright ©️ Ano - Titulo do Projeto
+Copyright ©️ Ano - Orbiting Oasis
