@@ -22,7 +22,7 @@ Status do Projeto: ⚠️ Em andamento
 
 🔹 [Sistema Operacional](https://github.com/GatoEstunado/Starlight-Dynamics#sistema-operacional)
 
-🔹 Banco de Dados
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Starlight-Dynamics#banco-de-dados)
 
 🔹 Linguagens, dependências e libs utilizadas
 
@@ -68,9 +68,12 @@ O jogo aborda uma jogabilidade no estilo stoy telling/novel, tendo mecânicas co
 
 
 ## Sistema Operacional
-Sendo produzido na Unity !!!!
+O jogo utiliza o motor gráfico da Unity 2D.
+Programado em C#.
+Produzido para o Windows para computadores.
+
 * ### Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+O banco de dados do computador foi realizado na linguagem SQL.
 
 Linguagens, dependencias e libs utilizadas 📚
 Android Studio
