@@ -22,7 +22,7 @@ Status do Projeto: ⚠️ Em andamento
 
 🔹 [Sistema Operacional](https://github.com/GatoEstunado/Orbiting-Oasis#sistema-operacional)
 
-🔹 [Banco de Dados](https://github.com/GatoEstunado/Orbiting-Oasis#banco-de-dados)
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Orbiting-Oasis#banco-de-dados-%EF%B8%8F)
 
 🔹 Linguagens, dependências e libs utilizadas
 
