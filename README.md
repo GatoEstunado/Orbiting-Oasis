@@ -10,19 +10,19 @@ Status do Projeto: ⚠️ Em andamento
 ### Tópicos
 
 
-🔹 [Sobre o Projeto](https://github.com/GatoEstunado/Starlight-Dynamics#sobre-o-projeto)
+🔹 [Sobre o Projeto](https://github.com/GatoEstunado/Orbiting-Oasis#sobre-o-projeto)
 
-🔹 [Gênero do Game](https://github.com/GatoEstunado/Starlight-Dynamics#gênero-do-game)
+🔹 [Gênero do Game](https://github.com/GatoEstunado/Orbiting-Oasis#gênero-do-game)
 
-🔹 [Mêcanicas](https://github.com/GatoEstunado/Starlight-Dynamics#mec%C3%A2nicas)
+🔹 [Mêcanicas](https://github.com/GatoEstunado/Orbiting-Oasis#mec%C3%A2nicas)
 
-🔹 [Sinópse](https://github.com/GatoEstunado/Starlight-Dynamics#sinópse)
+🔹 [Sinópse](https://github.com/GatoEstunado/Orbiting-Oasis#sinópse)
 
-🔹 [Nosso Diferencial](https://github.com/GatoEstunado/Starlight-Dynamics#nosso-diferencial)
+🔹 [Nosso Diferencial](https://github.com/GatoEstunado/Orbiting-Oasis#nosso-diferencial)
 
-🔹 [Sistema Operacional](https://github.com/GatoEstunado/Starlight-Dynamics#sistema-operacional)
+🔹 [Sistema Operacional](https://github.com/GatoEstunado/Orbiting-Oasis#sistema-operacional)
 
-🔹 [Banco de Dados](https://github.com/GatoEstunado/Starlight-Dynamics#banco-de-dados)
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Orbiting-Oasis#banco-de-dados)
 
 🔹 Linguagens, dependências e libs utilizadas
 
