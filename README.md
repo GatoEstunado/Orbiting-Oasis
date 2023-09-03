@@ -24,17 +24,17 @@ Status do Projeto: ⚠️ Em andamento
 
 🔹 [Banco de Dados](https://github.com/GatoEstunado/Orbiting-Oasis#banco-de-dados-%EF%B8%8F)
 
-🔹 Linguagens, dependências e libs utilizadas
+🔹 [Público Alvo](https://github.com/GatoEstunado/Orbiting-Oasis#p%C3%BAblico-alvo)
 
-🔹 Novas Recursos
+🔹 [Equipe](https://github.com/GatoEstunado/Orbiting-Oasis#equipe)
 
-🔹 Resolvendo problemas
+🔹 [Cronograma e Orçamento](https://github.com/GatoEstunado/Orbiting-Oasis#cronograma-e-orçamento)
 
-🔹 Recursos inseridos
+🔹 [ODS](https://github.com/GatoEstunado/Orbiting-Oasis#ods)
 
-🔹 Desenvolvedores/Contribuintes
+🔹 [Desenvolvedores/Contribuintes]
 
-🔹 Informações Extras
+🔹 [Informações Extras]
 
 ...
 
@@ -94,9 +94,13 @@ Para basear história e mecânicas do jogo.
 
 ## Desenvolvedores/Contribuintes:
 Dennis Nomura
+
 Fernanda Gabriela
+
 Rafael Shinji
+
 Rafael Silva
+
 Victor Hugo
 
 
