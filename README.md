@@ -34,7 +34,7 @@ Status do Projeto: ⚠️ Em andamento
 
 🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Orbiting-Oasis#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras]
+🔹 [Informações Extras](https://github.com/GatoEstunado/Orbiting-Oasis#extra)
 
 ...
 
