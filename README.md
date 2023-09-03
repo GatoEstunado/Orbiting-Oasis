@@ -32,7 +32,7 @@ Status do Projeto: ⚠️ Em andamento
 
 🔹 [ODS](https://github.com/GatoEstunado/Orbiting-Oasis#ods)
 
-🔹 [Desenvolvedores/Contribuintes]
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Orbiting-Oasis#desenvolvedorescontribuintes)
 
 🔹 [Informações Extras]
 
@@ -104,6 +104,8 @@ Rafael Silva
 Victor Hugo
 
 
+
+## Extra
 Licença
 The MIT License (MIT)
 
