@@ -75,25 +75,30 @@ Produzido para o Windows para computadores.
 * ### Banco de Dados 🗂️
 O banco de dados do computador foi realizado na linguagem SQL.
 
-Linguagens, dependencias e libs utilizadas 📚
-Android Studio
 
-XML ... Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+## Público Alvo
+Classificação indicativa 16 anos.
+Buscando atingir a adolescentes e jovens adultos.
 
-Resolvendo Problemas
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+## Equipe
 
-Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
-📝 Tarefa 1
+## Cronograma e Orçamento
 
-📝 Tarefa 2
+## ODS
+Orbiting Oasis ultiliza dos tópicos:
+* Saúde e Bem-estar 3.9
+* Vida Terrestre 15.5
+Para basear história e mecânicas do jogo.
 
-📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Dennis Nomura
+Fernanda Gabriela
+Rafael Shinji
+Rafael Silva
+Victor Hugo
+
 
 Licença
 The MIT License (MIT)
