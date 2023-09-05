@@ -73,11 +73,11 @@ Programado em C#.
 Produzido para o Windows para computadores.
 
 * ### Banco de Dados 🗂️
-O banco de dados do computador foi realizado na linguagem SQL.
+O banco de dados do jogo foi realizado na linguagem SQL.
 
 
 ## Público Alvo
-Classificação indicativa 16 anos.
+Classificação indicativa 14 anos.
 Buscando atingir a adolescentes e jovens adultos.
 
 ## Equipe
