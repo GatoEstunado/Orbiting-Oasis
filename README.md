@@ -70,7 +70,7 @@ O jogo aborda uma jogabilidade no estilo stoy telling/novel, tendo mecânicas co
 ## Sistema Operacional
 O jogo utiliza o motor gráfico da Unity 2D.
 Programado em C#.
-Produzido para o Windows para computadores.
+Produzido para o Windows.
 
 * ### Banco de Dados 🗂️
 O banco de dados do jogo foi realizado na linguagem SQL.
