@@ -81,6 +81,17 @@ Classificação indicativa 14 anos.
 Buscando atingir a adolescentes e jovens adultos.
 
 ## Equipe
+*Animador*
+
+*Designer*
+
+*Escritor*
+
+*Programador*
+
+*Programador (Data Base)*
+
+*Sound Designer*
 
 
 ## Cronograma e Orçamento
