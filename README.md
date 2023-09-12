@@ -95,6 +95,8 @@ Buscando atingir a adolescentes e jovens adultos.
 
 
 ## Cronograma e Orçamento
+O Projeto Orbiting Oasis tem um tempo tempo estimado de produção de 18 semanas, com o orçamento em horas de 1.386h.
+
 
 ## ODS
 Orbiting Oasis ultiliza dos tópicos:
