@@ -53,7 +53,7 @@ O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 
 "Pesca Espacial": Através dos diálogos, o jogador poder ser levado ao um dos mini games, que consiste na coleta de itens do lado de fora do Domo;
 
-"Plantação": O jogador pode plantar e colher e cozinhar, para gerar pratos especias e presentear os tripulantes para ganhar pontos de amizdade com eles;
+"Plantação": O jogador pode plantar e colher e cozinhar, para gerar pratos especias e presentear os tripulantes para ganhar pontos de amizade com eles;
 
 "Relacionamentos": Cada tripulante tem seu nível de amizade com o jogador, podendo ser aumentado, para assim liberar novas áreas e saber mais sobre seu background.
 
@@ -77,7 +77,7 @@ O banco de dados do jogo foi realizado na linguagem SQL.
 
 
 ## Público Alvo
-Classificação indicativa 14 anos.
+Classificação indicativa +14 anos.
 Buscando atingir a adolescentes e jovens adultos.
 
 ## Equipe
