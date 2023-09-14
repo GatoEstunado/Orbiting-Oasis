@@ -51,7 +51,7 @@ Novel / 2D / Story Telling /
 ## Mecânicas
 O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 
-"Pesca Espacial": Através dos diálogos, o jogador poder ser levado ao um dos mini games, que consiste na coleta de intens do lado de fora do Domo;
+"Pesca Espacial": Através dos diálogos, o jogador poder ser levado ao um dos mini games, que consiste na coleta de itens do lado de fora do Domo;
 
 "Plantação": O jogador pode plantar e colher e cozinhar, para gerar pratos especias e presentear os tripulantes para ganhar pontos de amizdade com eles;
 
