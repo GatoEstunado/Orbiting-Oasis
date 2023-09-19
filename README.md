@@ -122,4 +122,4 @@ Victor Hugo
 Licença
 The MIT License (MIT)
 
-Copyright ©️ Ano - Orbiting Oasis
+Copyright ©️ Ano 2023 - Orbiting Oasis
