@@ -3,10 +3,10 @@ using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-public class DialogueManager : MonoBehaviour
+public class Dialoguemanager : MonoBehaviour
 {
 
-    DialogueParser parser; //Passador de dialogos que sera conectado aqui
+    Dialoguepasser parser; //Passador de dialogos que sera conectado aqui
 
     public string dialogue, characterName;
     public int lineNum;
@@ -30,7 +30,7 @@ public class DialogueManager : MonoBehaviour
         position = "L";
         playerTalking = false; //iniciando as variaveis para evitar errors
 
-        parser = GameObject.Find("DialogueParser").GetComponent<DialogueParser>(); //pegando o script do passador de dialogos
+        parser = GameObject.Find("DialogueParser").GetComponent<Dialoguepasser>(); //pegando o script do passador de dialogos
         lineNum = 0;
     }
 
