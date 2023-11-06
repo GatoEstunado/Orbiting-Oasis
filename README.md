@@ -1,4 +1,4 @@
-# Orbiting Oasis
+# Orbiting Oasis - ReadMe
 
 
 *Versão: 1.0*
@@ -37,10 +37,13 @@ Status do Projeto: ⚠️ Em andamento
 ...
 
 
+
 ### Descrição do Projeto
 Orbiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
 
-Funcionalidades ⚙️
+
+
+### Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
 ✔️ Funcionalidade 2
@@ -49,14 +52,21 @@ Funcionalidades ⚙️
 
 ✔️ Funcionalidade 4
 
+
+
 ### Distribuição
 O produto ainda não tem versão de teste disponível.
 
+
+
 ### Pré-requisitos ⚠️
 Um computador com: Windows 7 ou superior, Processador i3-2100 / AMD Ryzen 3 1200, 6gb de RAM.
+
+
 ![image](https://github.com/GatoEstunado/Orbiting-Oasis/assets/126710731/1fcfe51c-ff9d-4529-97a8-3a816bf76596)
 ![image](https://github.com/GatoEstunado/Orbiting-Oasis/assets/126710731/fb637abe-f8dd-46b1-93d7-0127a073cd50)
 ![image](https://github.com/GatoEstunado/Orbiting-Oasis/assets/126710731/ad484817-fbb8-417c-b80b-da7f245b6bc3)
+
 
 *Não são necessário instalações secundárias para o projeto. Para usar basta baixar o projeto e executá-lo.
 
@@ -66,16 +76,20 @@ Um computador com: Windows 7 ou superior, Processador i3-2100 / AMD Ryzen 3 1200
 Ainda não foram realizado testes.
 
 
+
 ### Banco de Dados 🗂️
 O Projeto conta com banco de dados feito em JSON.
+
 
 
 ### Linguagens, dependencias e libs utilizadas 📚
 ?
 
 
+
 ### Resolvendo Problemas
 Alguns problemas relacionados ao tempo fizeram com que algumas mecânicas do jogo fossem remodeladas para serem simplificadas, ou removidas para serem introduzidas posteriormente.
+
 
 
 ### Recursos de inseridos 🧰
@@ -90,6 +104,8 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Outros cenários
 
 📝 Relações
+
+
 
 ## Desenvolvedores/Contribuintes:
 Dennis Nomura
@@ -112,7 +128,7 @@ Copyright ©️ 2023 - Orbiting Oasis
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Orbiting Oasis
+# Orbiting Oasis - High Concept
 
 
 *Versão: 1.0*
@@ -165,12 +181,6 @@ Novel / 2D / Story Telling /
 ## Mecânicas
 O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 
-"Pesca Espacial": Através dos diálogos, o jogador poder ser levado ao um dos mini games, que consiste na coleta de itens do lado de fora do Domo;
-
-"Plantação": O jogador pode plantar e colher e cozinhar, para gerar pratos especias e presentear os tripulantes para ganhar pontos de amizade com eles;
-
-"Relacionamentos": Cada tripulante tem seu nível de amizade com o jogador, podendo ser aumentado, para assim liberar novas áreas e saber mais sobre seu background.
-
 
 
 ## Sinópse
@@ -187,7 +197,7 @@ Programado em C#.
 Produzido para o Windows.
 
 * ### Banco de Dados 🗂️
-O banco de dados do jogo foi realizado na linguagem SQL.
+O banco de dados do jogo foi realizado na linguagem JSON.
 
 
 ## Público Alvo
