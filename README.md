@@ -8,6 +8,120 @@ Status do Projeto: ⚠️ Em andamento
 
 
 ### Tópicos
+🔹 Descrição do projeto
+
+🔹 Funcionalidades
+
+🔹 Distribuição
+
+🔹 Pré-requisitos
+
+🔹 Como rodar a aplicação
+
+🔹 Testes realizados
+
+🔹 Banco de Dados
+
+🔹 Linguagens, dependências e libs utilizadas
+
+🔹 Novas Recursos
+
+🔹 Resolvendo problemas
+
+🔹 Recursos inseridos
+
+🔹 Desenvolvedores/Contribuintes
+
+🔹 Informações Extras
+
+...
+
+
+### Descrição do Projeto
+Orbiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
+
+Funcionalidades ⚙️
+✔️ Funcionalidade 1
+
+✔️ Funcionalidade 2
+
+✔️ Funcionalidade 3
+
+✔️ Funcionalidade 4
+
+### Distribuição
+O produto ainda não tem versão de teste disponível.
+
+### Pré-requisitos ⚠️
+Um computador com: Windows 7 ou superior, Processador i3-2100 / AMD Ryzen 3 1200, 6gb de RAM.
+![image](https://github.com/GatoEstunado/Orbiting-Oasis/assets/126710731/1fcfe51c-ff9d-4529-97a8-3a816bf76596)
+![image](https://github.com/GatoEstunado/Orbiting-Oasis/assets/126710731/fb637abe-f8dd-46b1-93d7-0127a073cd50)
+![image](https://github.com/GatoEstunado/Orbiting-Oasis/assets/126710731/ad484817-fbb8-417c-b80b-da7f245b6bc3)
+
+*Não são necessário instalações secundárias para o projeto. Para usar basta baixar o projeto e executá-lo.
+
+
+
+### Testes realizados
+Ainda não foram realizado testes.
+
+
+### Banco de Dados 🗂️
+O Projeto conta com banco de dados feito em JSON.
+
+
+### Linguagens, dependencias e libs utilizadas 📚
+?
+
+
+### Resolvendo Problemas
+Alguns problemas relacionados ao tempo fizeram com que algumas mecânicas do jogo fossem remodeladas para serem simplificadas, ou removidas para serem introduzidas posteriormente.
+
+
+### Recursos de inseridos 🧰
+Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
+
+📝 Mecânias secundárias nos diálogos
+
+📝 Mecânica de Pesca
+
+📝 Mecânica de Plantio
+
+📝 Outros cenários
+
+📝 Relações
+
+## Desenvolvedores/Contribuintes:
+Dennis Nomura
+
+Fernanda Gabriela
+
+Rafael Shinji
+
+Rafael Silva
+
+Victor Hugo
+
+Daniel Ohata (Orientador)
+
+
+Licença
+The MIT License (MIT)
+
+Copyright ©️ 2023 - Orbiting Oasis
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Orbiting Oasis
+
+
+*Versão: 1.0*
+
+
+Status do Projeto: ⚠️ Em andamento
+
+
+### Tópicos
 
 
 🔹 [Sobre o Projeto](https://github.com/GatoEstunado/Orbiting-Oasis#sobre-o-projeto)
@@ -43,7 +157,7 @@ Status do Projeto: ⚠️ Em andamento
 Orbiting Oasis é um story telling, focado em contar as consequências da poluição na Terra, forçando os humanos a fuigr para o imenso e desconhecido espaço. 
 
 
-## Gênero do game
+## Gênero do Game
 Novel / 2D / Story Telling / 
 
 
@@ -63,7 +177,7 @@ O jogo tem como mecânica principal, os diálogos e tomada de decisões;
 Orbiting Oasis é o um dos últimos refúgios da humanidade. Você é o Gerente do parque florestal, lançado ao espaço junto de sua esquipe, será que vocês serão a esperanças da humanidade, ou seu fim? 
 
 
-## Nosso diferencial
+## Nosso Diferencial
 O jogo aborda uma jogabilidade no estilo stoy telling/novel, tendo mecânicas complementares para dar um Up, com tema baseado em ODS.
 
 
