@@ -8,31 +8,31 @@ Status do Projeto: ⚠️ Em andamento
 
 
 ### Tópicos
-🔹 Descrição do projeto
+🔹 [Descrição do projeto](https://github.com/GatoEstunado/Orbiting-Oasis#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 Funcionalidades
+🔹 [Funcionalidades](https://github.com/GatoEstunado/Orbiting-Oasis#funcionalidades)
 
-🔹 Distribuição
+🔹 [Distribuição](https://github.com/GatoEstunado/Orbiting-Oasis#distribuição)
 
-🔹 Pré-requisitos
+🔹 [ré-requisitos]
 
-🔹 Como rodar a aplicação
+🔹 [Como rodar a aplicação]
 
-🔹 Testes realizados
+🔹 [Testes realizados]
 
-🔹 Banco de Dados
+🔹 [anco de Dados]
 
-🔹 Linguagens, dependências e libs utilizadas
+🔹 [Linguagens, dependências e libs utilizadas]
 
-🔹 Novas Recursos
+🔹 [Novas Recursos]
 
-🔹 Resolvendo problemas
+🔹 [Resolvendo problemas]
 
-🔹 Recursos inseridos
+🔹 [Recursos inseridos]
 
-🔹 Desenvolvedores/Contribuintes
+🔹 [Desenvolvedores/Contribuintes]
 
-🔹 Informações Extras
+🔹 [Informações Extras]
 
 ...
 
