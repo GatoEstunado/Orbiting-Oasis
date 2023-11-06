@@ -10,27 +10,27 @@ Status do Projeto: ⚠️ Em andamento
 ### Tópicos
 🔹 [Descrição do projeto](https://github.com/GatoEstunado/Orbiting-Oasis#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 [Funcionalidades](https://github.com/GatoEstunado/Orbiting-Oasis#funcionalidades)
+🔹 [Funcionalidades](https://github.com/GatoEstunado/Orbiting-Oasis#funcionalidades-%EF%B8%8F)
 
 🔹 [Distribuição](https://github.com/GatoEstunado/Orbiting-Oasis#distribuição)
 
-🔹 [ré-requisitos]
+🔹 [Pré-requisitos](https://github.com/GatoEstunado/Orbiting-Oasis#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação]
+🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Orbiting-Oasis#testes-realizados)
 
-🔹 [Testes realizados]
+🔹 [Testes realizados](https://github.com/GatoEstunado/Orbiting-Oasis#testes-realizados)
 
-🔹 [anco de Dados]
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Orbiting-Oasis#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas]
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Orbiting-Oasis#linguagens-dependencias-e-libs-utilizadas-)
 
 🔹 [Novas Recursos]
 
-🔹 [Resolvendo problemas]
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Orbiting-Oasis#resolvendo-problemas)
 
-🔹 [Recursos inseridos]
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Orbiting-Oasis#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes]
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Orbiting-Oasis#desenvolvedorescontribuintes)
 
 🔹 [Informações Extras]
 
