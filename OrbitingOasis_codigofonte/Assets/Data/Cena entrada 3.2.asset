@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Cena entrada 3.2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "O Felipe est\xE1 l\xE1, ele \xE9 cabe\xE7a-quente, mas consegue lidar
+      com essas situa\xE7\xF5es sob press\xE3o. Eu tenho minhas pr\xF3prias obriga\xE7\xF5es
+      no momento."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 1000, y: 0}
+      moveSpeed: 0
+  - text: '*Depois de 3 longas horas finalmente sou liberado daquele lugar.*'
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  background: {fileID: 0}
+  nextScene: {fileID: 0}

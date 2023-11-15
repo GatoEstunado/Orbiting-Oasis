@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Cena entrada 3.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "\u201CO Felipe costuma ser muito esquentadinho, \xE9 melhor eu ir l\xE1
+      antes que ele fa\xE7a ou fale algo que n\xE3o deva.\u201D"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Sem outra op\xE7\xE3o, mudo meu rumo e sigo em dire\xE7\xE3o a Felipe.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "\u2026COMO EU DISSE VOC\xCA EST\xC1 INVENTANDO ISSO, POR ACASO VOC\xCA
+      N\xC3O SABE QUEM SOMOS N\xD3S??"
+    speaker: {fileID: 11400000, guid: 758cece18e52ed44d84ed4eb9f670789, type: 2}
+    actions: []
+  - text: "\xC9 BOM VOC\xCA PARAR DE INVENTAR ESSAS ACUSA\xC7\xD5ES OU VAMOS DEMITIR
+      VOC\xCA!"
+    speaker: {fileID: 11400000, guid: 758cece18e52ed44d84ed4eb9f670789, type: 2}
+    actions: []
+  - text: "VOC\xCA ACHA MESMO QUE EU VOU PERDER MEU TEMPO INVENTANDO UMA MERDA DESSA?
+      EU VI TUDO, E \xC9 BOM QUE VOC\xCAS DEVOLVAM ANTES QUE EU A TIRE A FOR\xC7A!"
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: -400, y: 0}
+      moveSpeed: 0
+  - text: "I-ISSO FOI UMA AMEA\xC7A? VOC\xCA PERDEU A CABE\xC7A!?"
+    speaker: {fileID: 11400000, guid: 758cece18e52ed44d84ed4eb9f670789, type: 2}
+    actions: []
+  - text: Foi sim, algum problema?
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions: []
+  - text: "Ei, Ei, acabou a bagun\xE7a aqui! Quero uma explica\xE7\xE3o do porqu\xEA
+      de toda essa palha\xE7ada estar acontecendo, e r\xE1pido!"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Bem na hora, finalmente algu\xE9m que vai escutar o bom senso e a raz\xE3o."
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: " Por favor, controle essa fera que voc\xEA chama de funcion\xE1rio para
+      que possamos voltar ao nosso trabalho, somos muito ocupados."
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: "Bem na hora. Eu peguei esses dois palha\xE7os a\xED roubando algumas mudas
+      e ra\xEDzes de \xE1rvores e guardando elas dentro do jaleco, mas est\xE3o bancando
+      os sonsos para n\xE3o devolver."
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -411, y: 0}
+      moveSpeed: 1
+  - text: "VOC\xCA AINDA INSISTE NESSA BABOSEIRA?"
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: "*N\xE3o demorou muito para a discuss\xE3o voltar. Felipe se mantinha firme
+      em seu julgamento enquanto os outros dois continuavam negando as acusa\xE7\xF5es
+      dele.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 1
+      actionType: 2
+      coords: {x: -400, y: 0}
+      moveSpeed: 1
+  - text: "Tsc\u2026 CALEM A BOCA"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Dessa vez pareceu funcionar a minha tentativa de ganhar a aten\xE7\xE3o.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Eu n\xE3o tenho tempo pra isso! Roubar qualquer coisa de uma \xC1rea Verde
+      se tornou crime federal, se isso for verdade voc\xEAs dois ser\xE3o presos,
+      mas acusar falsamente tamb\xE9m \xE9 um caso grave."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+  - text: "Felipe, voc\xEA tem certeza do que viu?"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: Sim senhor, absoluta!
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions: []
+  - text: "*Eu conhecia o Felipe a muito tempo, ent\xE3o sabia dizer quando ele estava
+      falando s\xE9rio ou n\xE3o, e baseado na express\xE3o que ele est\xE1 fazendo
+      eu podia dizer que ele tem total certeza do que fala.* "
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Ent\xE3o vamos resolver logo isso. Voc\xEAs dois, abram o jaleco e esvaziem
+      os bolsos, se for mentira, voc\xEAs estar\xE3o livres."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: '*A dupla parecia muito insultada naquele momento*'
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "N\xF3s n\xE3o vamos fazer isso!"
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: "\xC9 s\xE9rio que voc\xEA caiu no papinho desse troglodita? Ele nem tem
+      provas concretas!"
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: "Se est\xE3o com tanta certeza de que eu estou errado \xE9 s\xF3 provar,
+      provavelmente eu vou perder o emprego se estiver errado. Voc\xEAs n\xE3o t\xEAm
+      nada a perder."
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions: []
+  - text: "N\xE3o! Isso \xE9 uma falta de respeito enorme!"
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: "Essa nega\xE7\xE3o toda est\xE1 ficando muito estranha. Eu estou a caminho
+      de uma reuni\xE3o com o chefe de voc\xEAs, querem que eu leve esse t\xF3pico
+      para ele resolver?"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Em outra situa\xE7\xE3o esse momento teria sido super engra\xE7ado, ver
+      a cara deles perdendo a cor t\xE3o r\xE1pido foi como ver um camale\xE3o mudar
+      de cor.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: " Qual o motivo do medo? Voc\xEAs s\xE3o os inocentes aqui, n\xE3o s\xE3o?"
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions: []
+  - text: "\xC9-\xC9 claro que somos! "
+    speaker: {fileID: 11400000, guid: f1b32b1fd29cd7b40ab9c61c5f27f7e3, type: 2}
+    actions: []
+  - text: "Ent\xE3o prove."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Extremamente relutantes, os dois esvaziam os bolsos e tiram v\xE1rios
+      peda\xE7os de mudas e pequenas partes de ra\xEDzes cortadas de dentro do jaleco.
+      Ainda estavam sujas de terra. Soltei um longo suspiro de decep\xE7\xE3o*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "J\xE1 n\xE3o basta o mercen\xE1rios, agora preciso ter cuidado at\xE9
+      com quem devia ajudar a cuidar desse lugar? Isso n\xE3o vai passar impune!"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: " Felipe, bom trabalho. Garanta que esses dois n\xE3o saiam daqui, depois
+      eu vou mandar algu\xE9m vir pegar eles."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: Com prazer, senhor!
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -1000, y: 0}
+      moveSpeed: 2
+  - text: "*Ele parecia muito orgulhoso de ter feito o bem, mas conseguia esconder
+      isso com aquela cara de poucos amigos. A essa altura eu j\xE1 devia estar atrasado,
+      ent\xE3o apertei meu passo para chegar logo no meu destino.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Depois de 3 longas horas finalmente sou liberado daquele lugar. Saindo
+      ao meu lado estavam alguns policiais que foram chamados no decorrer da reuni\xE3o
+      ao mencionar a tentativa de furto.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Desde que a Terra chegou a este estado, qualquer tentativa de danificar,
+      roubar ou prejudicar uma \xE1rea verde se tornou um crime severo.*"
+    speaker: {fileID: 0}
+    actions: []
+  background: {fileID: 0}
+  nextScene: {fileID: 0}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Guarda
+  m_EditorClassIdentifier: 
+  speakerName: Felipe
+  sprites:
+  - {fileID: 21300000, guid: fd1e9a693168fb54aac53b0301b19653, type: 3}
+  - {fileID: 21300000, guid: c4f3f90d67dd2a540a2980ce4766eb20, type: 3}
+  prefab: {fileID: 4315361723220548009, guid: efb998dd2420eed4ebfdc3a2dfa71014, type: 3}

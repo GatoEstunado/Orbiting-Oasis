@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Estagiario
+  m_EditorClassIdentifier: 
+  speakerName: Elliot
+  sprites:
+  - {fileID: 21300000, guid: 8424f56c819d91e41b2e8cba68b31200, type: 3}
+  - {fileID: 21300000, guid: d9c4474ae56d3024a9acc50296aa0bd9, type: 3}
+  prefab: {fileID: 1289080006737367168, guid: 461a318090d3754478864ab32b781324, type: 3}

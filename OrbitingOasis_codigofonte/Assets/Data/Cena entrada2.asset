@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Cena entrada2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "*Depois de anotar e revisar alguns documentos percebo que o hor\xE1rio
+      dos funcion\xE1rios chegarem estava pr\xF3ximo, ent\xE3o eu devia organizar
+      logo suas tarefas do dia.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Por sorte eu j\xE1 havia feito isso na noite passada. Com tudo em m\xE3os
+      vou para a frente da casa, era l\xE1 que costum\xE1vamos fazer nossas reuni\xF5es.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: " Oi pessoal, bom dia. Como voc\xEAs j\xE1 sabem, devido \xE0s etapas finais
+      da constru\xE7\xE3o tivemos que diminuir muito a quantidade funcion\xE1rios
+      daqui, ent\xE3o estarei contando com voc\xEAs para mais um dia de trabalho
+      duro."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -375, y: 0}
+      moveSpeed: 0
+  - text: "Tsc! Esses engomadinhos de jaleco branco s\xE3o muito lerdos, por causa
+      deles a gente precisa ficar ralando o dobro, n\xE3o, o triplo, s\xF3 porque
+      n\xE3o conseguem trabalhar r\xE1pido. "
+    speaker: {fileID: 11400000, guid: 758cece18e52ed44d84ed4eb9f670789, type: 2}
+    actions: []
+  - text: "Calma, Felipe, voc\xEA sabe que n\xE3o adianta ficar reclamando. Veja
+      pelo lado bom, eles j\xE1 est\xE3o finalizando! Acredito que mais uns 2 ou
+      3 dias e tudo vai acabar."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "\xC9 bom mesmo, eu n\xE3o aguento mais olhar pra esses imbec\xEDs. Eles
+      acham que s\xF3 porque tem 2 ou 3 diplomas podem mandar na gente!"
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 1
+      actionType: 2
+      coords: {x: -455, y: 0}
+      moveSpeed: 1
+  - text: "*Esse \xE9 Felipe, o guarda do parque. Ele costumava servir ao ex\xE9rcito
+      antes de vir parar aqui.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -500, y: 0}
+      moveSpeed: 1
+  - text: "*No come\xE7o foi dif\xEDcil interagir com ele considerando sua personalidade,
+      isso sem contar com a sua apar\xEAncia: Um homem grande e forte de cara fechada,
+      lembro que tinha certo medo de falar com ele.*"
+    speaker: {fileID: 0}
+    actions: []
+  - text: "Calma, Felipe, o senhor pode ser cabe\xE7a quente, mas tem que olhar pelo
+      lado dos cientistas tamb\xE9m. N\xE3o deve ser f\xE1cil carregar a responsabilidade
+      de garantir a qualidade de uma \xE1rea verde."
+    speaker: {fileID: 11400000, guid: 758cece18e52ed44d84ed4eb9f670789, type: 2}
+    actions: []
+  - text: " E voc\xEA nem faz ideia."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "N\xE3o me venha com essa, Jadson! Tudo o que eles fazem \xE9 olhar para
+      o mato e escrever umas bobagens naquela tela. Dif\xEDcil mesmo \xE9 o nosso
+      trabalho, com aqueles bracinhos finos eles n\xE3o aguentariam 1 semana."
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 1
+      actionType: 2
+      coords: {x: -500, y: 0}
+      moveSpeed: 1
+  - text: " HAHAHAHA voc\xEA tem raz\xE3o nisso meu amigo."
+    speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+    actions: []
+  - text: "*Este \xE9 Jadson, o nosso mec\xE2nico.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Devido aos avan\xE7os tecnol\xF3gicos das \xFAltimas d\xE9cadas, foi
+      necess\xE1rio a implementa\xE7\xE3o de v\xE1rios componentes em todos os lugares
+      que se possa imaginar, e para garantir sua manuten\xE7\xE3o frequente optamos
+      por contratar um mec\xE2nico especializado.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Junto de mim, ele e Felipe s\xE3o os funcion\xE1rios mais antigos desse
+      lugar. Somos bons amigos apesar das diferen\xE7as entre n\xF3s.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: " E por falar em bra\xE7os finos, cad\xEA aqueles dois?"
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -500, y: 0}
+      moveSpeed: 1
+  - text: "Hm? Ah.. A Elin disse que o trem dela atrasou, ent\xE3o iria chegar alguns
+      minutos atrasada. J\xE1 o Elliot n\xE3o me disse nada, quando ele chegar vou
+      descobrir o motivo."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: " Enfim, enquanto isso vou passar as tarefas de voc\xEAs. Jadson, o sistema
+      de irriga\xE7\xE3o deu defeito de novo, voc\xEA vai ter que ir l\xE1 dar uma
+      olhada. Felipe, me avisaram que v\xE3o trazer mais alguns dos animais de volta."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Eles tinham sido sedados, ent\xE3o fique de olho neles, mas cuidado, eles
+      podem te estranhar inicialmente."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: Sim senhor!
+    speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+    actions: []
+  - text: "*Felipe levanta e vai rumo a \xE1rea de sua cabana.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -1100, y: 0}
+      moveSpeed: 1
+  - text: "Ei, e as pe\xE7as que eu pedi? Sem aquela porca de tit\xE2nio fica imposs\xEDvel
+      fazer um concerto permanente."
+    speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -450, y: 0}
+      moveSpeed: 1
+  - text: "Eu ainda n\xE3o consegui comprar ela, sinto muito. Essas porcas, al\xE9m
+      de caras, est\xE3o quase acabando tamb\xE9m, em todo lugar que eu tento comprar
+      diz que est\xE1 esgotada. Por enquanto vai ter que ir se virando com o que
+      a gente tem."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: " Fazer o que n\xE9, tudo bem."
+    speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -499, y: 0}
+      moveSpeed: 1
+  - text: ' *Jadson segue rumo ao seu destino*'
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b497987e6eda22948857c9e23692f9e9, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: 350, y: 0}
+      moveSpeed: 1
+  - text: "*Instantes depois de ambos sa\xEDrem \xE9 poss\xEDvel ver Eliot e Elin
+      correndo at\xE9 a minha dire\xE7\xE3o. Esses dois estavam aqui a menos tempo
+      se for comparar com Felipe e Jadson.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: dbcd1e5715444db4d846eea7f1cb2500, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -240, y: 0}
+      moveSpeed: 0
+  - text: "*Elin trabalha conosco h\xE1 5 anos, e se d\xE1 super bem com o pessoal,
+      j\xE1 Eliot est\xE1 aqui h\xE1 pouco mais de 1 m\xEAs.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Ofegante* - Oi\u2026 Desculpa o atraso, n\xE3o foi por querer\u2026"
+    speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -500, y: 0}
+      moveSpeed: 10
+    - speaker: {fileID: 11400000, guid: dbcd1e5715444db4d846eea7f1cb2500, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -300, y: 0}
+      moveSpeed: 10
+  - text: "Desculpa, chefe\u2026 Eles me barraram l\xE1 na entrada. Parece que minhas
+      informa\xE7\xF5es estavam desatualizadas no banco de dados deles. *Ofegante*"
+    speaker: {fileID: 11400000, guid: dbcd1e5715444db4d846eea7f1cb2500, type: 2}
+    actions: []
+  - text: "* Suspira* - Dessa vez passa, mas s\xF3 porque s\xE3o problemas externos.
+      Vamos torcer para que isso n\xE3o volte a se repetir."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Recuperando o f\xF4lego* - Combinado, e onde est\xE3o aqueles dois? "
+    speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+    actions: []
+  - text: "Eu passei suas tarefas e eles acabaram de sair. O que me lembra que preciso
+      passar a de voc\xEAs. Elin, nos pr\xF3ximos 2 dias vamos receber alguns caminh\xF5es
+      de comida aqui, voc\xEA vai ajud\xE1-los a guardar tudo."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Elliot, voc\xEA vai limpar toda a \xE1rea aqui, pegue as folhas ca\xEDdas
+      e depois corte um pouco a grama. N\xE3o se preocupe, eu j\xE1 conversei com
+      o pessoal ali e eles permitiram, n\xE3o vai acontecer nenhum barraco igual
+      da \xFAltima vez que cortamos as folhas."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Certo\u2026 Os equipamentos est\xE3o no por\xE3o, n\xE9?"
+    speaker: {fileID: 11400000, guid: dbcd1e5715444db4d846eea7f1cb2500, type: 2}
+    actions: []
+  - text: "Sim, est\xE3o todos l\xE1. Se algum estiver faltando veja com o Jadson,
+      talvez ele tenha pegado para arrumar."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Elliot concorda com a cabe\xE7a e se afasta para come\xE7ar seu trabalho.
+      Ele n\xE3o \xE9 de falar muito, ainda \xE9 muito t\xEDmido, mas pelo menos
+      \xE9 esfor\xE7ado. Como est\xE1 come\xE7ando ainda eu costumo passar um pouco
+      de tudo para ele, assim o menino ganha experi\xEAncia.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: dbcd1e5715444db4d846eea7f1cb2500, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: 500, y: 0}
+      moveSpeed: 1
+  - text: " Voc\xEA n\xE3o acha estranho a gente estar recebendo tanta comida assim?
+      Tipo, \xE9 bem mais do que a gente costumava pedir, n\xE3o?"
+    speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+    actions: []
+  - text: "\xC9 bastante mesmo, mas como voc\xEA sabe aqui sempre foi muito movimentado,
+      temos uma previs\xE3o que no dia da reabertura esse lugar vai lotar, como n\xE3o
+      queremos que os visitantes passem fome \xE9 melhor n\xE3o arriscar."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: ' Sem contar que estava precisando mesmo reabastecer.'
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "\xC9, acho que voc\xEA tem raz\xE3o. Bom, eu vou indo ent\xE3o, at\xE9
+      mais tarde."
+    speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+    actions: []
+  - text: "*Elin se despede enquanto vai rumo a \xE1rea de picnic. Apesar de fazer
+      de tudo um pouco, ela se sai muito melhor trabalhando nas \xE1reas das lanchonetes.
+      Bem, acho que est\xE1 na hora de come\xE7ar a trabalhar tamb\xE9m.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 56bd537b56910ce408c0d67e515446e5, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: 500, y: 0}
+      moveSpeed: 1
+  - text: "*Algumas horas se passaram desde de que comecei a revisar alguns documentos,
+      e apesar da pilha de papel do meu lado n\xE3o acabar nunca, o trabalho n\xE3o
+      era ruim*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: '*Som de celular*'
+    speaker: {fileID: 0}
+    actions: []
+  - text: " Al\xF4?... Sim, sou eu\u2026 Claro, agora mesmo\u2026 Certo ent\xE3o,
+      at\xE9 mais."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "Eu n\xE3o me importo de ter que participar de algumas reuni\xF5es deles,
+      mas custa avisar com anteced\xEAncia?"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Desde o momento em que eles chegaram aqui tiveram v\xE1rias reuni\xF5es
+      n\xE3o marcadas e, em muitas delas, eu precisei comparecer em nome do Ethan.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*N\xE3o \xE9 o fim do mundo, mas me irrita muito n\xE3o se organizarem
+      para marcar em uma agenda quando elas v\xE3o acontecer.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*Enquanto avan\xE7ava, aos poucos era poss\xEDvel escutar tr\xEAs tipos
+      de vozes ganhando for\xE7a: De um lado havia uma voz grave e poderosa, do outro,
+      t\xEDnhamos duas vozes um pouco mais agudas e autorit\xE1rias tentando falar
+      por cima da primeira.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  - text: "*N\xE3o demorou para uma discuss\xE3o se iniciar. A mais ou menos 15 metros
+      de onde eu estava era poss\xEDvel ver e ouvir Felipe e mais 2 cientistas discutindo
+      em frente a um grande caminh\xE3o, a situa\xE7\xE3o ali parecia s\xE9ria.*"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions: []
+  background: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: b2065adbcf627e943809e37dbf772c29, type: 2}

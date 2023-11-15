@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Cena entrada1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Hm? Mais cientistas?\u2026 Parece que o Ethan(Dono) est\xE1 realmente
+      empenhado em cuidar daqui. N\xE3o o julgo, o Parque Dodona \xE9 uma das \xFAltimas
+      \xE1reas verdes que sobraram no mundo. Al\xE9m do mais, acho que eles n\xE3o
+      v\xEAem a hora de acabar essa constru\xE7\xE3o. Quanto mais gente trabalhando
+      nele, melhor."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 0}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+  - text: "Faz cerca de 5 meses que come\xE7aram a construir esse domo. N\xE3o sei
+      de todos os detalhes, mas ao que parece o domo vai atuar como um filtrador
+      de ar, e tamb\xE9m como prote\xE7\xE3o para qualquer coisa que possa acontecer."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+  - text: "*Gra\xE7as a ele, sempre que um funcion\xE1rio for entrar primeiro ser\xE1
+      necess\xE1rio passar pela seguran\xE7a, \xE9 bem \xFAtil, mas tamb\xE9m um
+      saco, \xE9 sempre cheio de burocracia e detalhezinhos. "
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 27abf4250ea54844f9fa793edf29e89d, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 100
+  - text: "Depois de alguns minutos eu finalmente sou liberado. N\xE3o podendo perder
+      mais tempo, vou direto para a casa principal, \xE9 l\xE1 onde fica o meu escrit\xF3rio.*"
+    speaker: {fileID: 0}
+    actions: []
+  background: {fileID: 0}
+  nextScene: {fileID: 0}

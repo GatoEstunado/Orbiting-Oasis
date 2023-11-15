@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: "Cenaop\xE7\xE3o1"
+  m_EditorClassIdentifier: 
+  labels:
+  - text: "Ir at\xE9 l\xE1 para acabar com a discuss\xE3o. (Voc\xEA vai se atrasar
+      para a reuni\xE3o)"
+    nextScene: {fileID: 11400000, guid: f11f23c85c4ed6441a6460cab41a6311, type: 2}
+  - text: "Ignorar e seguir para a reuni\xE3o."
+    nextScene: {fileID: 11400000, guid: d2f1d644dfcd7c8448c27155dca7b1c4, type: 2}

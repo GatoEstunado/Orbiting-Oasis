@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Inicio
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "... 'Foi confirmado na noite de ontem que a suposta vegeta\xE7\xE3o na
+      Ilha de Berindel \xE9 falsa! Especialistas sugerem que se trata de uma tentativa
+      de despistar a aten\xE7\xE3o do caso de desaparecimento do Parque Trophonius.
+      A poli-'..."
+    speaker: {fileID: 11400000, guid: 02ccbdb975a25ed4fb70927909305411, type: 2}
+  - text: "*Suspiro* \"Parece que toda aquela hist\xF3ria de lutar pelo planeta n\xE3o
+      passa de ilus\xE3o. Por qu\xEA n\xE3o estou surpreso?\""
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+  - text: "\"T\xE1 quase completando 35 anos da morte do planeta. Se n\xE3o me engano,
+      diversos especialistas especularam que ter\xEDamos, aproximadamente, 47 anos
+      ainda, considerando nossa tecnologia e recursos, para curar o mundo se n\xE3o
+      ir\xEDamos morrer\u2026"
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+  - text: " A gan\xE2ncia e o desejo nos proporcionaram uma tecnologia fant\xE1stica,
+      mas tamb\xE9m nos cegou de uma forma alarmante, chegamos ao ponto onde nem
+      mesmo notamos a decad\xEAncia do nosso pr\xF3prio mundo."
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+  - text: " \"Nossos antepassados n\xE3o tiveram a dec\xEAncia de fazer o b\xE1sico,
+      mas\u2026 Acho que essa gera\xE7\xE3o tamb\xE9m n\xE3o tem moral para reclamar\u2026\""
+    speaker: {fileID: 11400000, guid: d02fb4222f226a041835d8bafcf61da8, type: 2}
+  background: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: 4a0c2bd4fee3dbb499696e176532c5d8, type: 2}
